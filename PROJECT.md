@@ -1,6 +1,6 @@
 # Project Idea
 ## Project Name
-TBD
+Book Club
 ## Problem to Solve
 TBD
 ## Target User
