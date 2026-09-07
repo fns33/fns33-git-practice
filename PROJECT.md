@@ -4,4 +4,4 @@ TBD
 ## Problem to Solve
 TBD
 ## Target User
-We should define base and extreme cases
+We should define the audience and their respective genre
