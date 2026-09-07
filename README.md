@@ -1,4 +1,4 @@
 # Developer Profile
-- **Name:** Nicole
+- **Developer:** Nicole
 - **Hobby:** Reading
 - **Preferred Development Tool:** VS Code
