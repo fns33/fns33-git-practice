@@ -4,7 +4,4 @@ Book Club
 ## Problem to Solve
 We are creating a book club for CS Students
 ## Target User
-TBD
-
-
-
+We should define the audience and their respective genre
