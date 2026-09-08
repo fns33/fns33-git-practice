@@ -1,7 +1,7 @@
 # Project Idea
 ## Project Name
-TBD
+Book Club
 ## Problem to Solve
-TBD
+We are creating a book club for CS Students
 ## Target User
 We should define the audience and their respective genre
