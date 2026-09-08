@@ -2,6 +2,9 @@
 ## Project Name
 TBD
 ## Problem to Solve
-TBD
+We are creating a book club for CS Students
 ## Target User
 TBD
+
+
+
